@@ -11,7 +11,7 @@ environment {
     GIT_USER_NAME = 'hyeono2'
     GIT_USER_EMAIL = 'hyeono2@naver.com'
     GITHUB_CREDENTIALS_ID = 'Github-Cred'
-    GITHUB_REPO = 'github.com/hyeono2/reqres_products.git'
+    GITHUB_REPO = 'github.com/Jhyeong/reqres_products.git'
     GITHUB_BRANCH = 'master' // 업로드할 브랜치
 }
 
